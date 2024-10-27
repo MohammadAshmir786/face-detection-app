@@ -60,7 +60,7 @@ Before starting, make sure you have the following requirements:
 Contributions are welcome! If you have ideas for improving the project or adding new features, feel free to fork the repository and submit a pull request.
 
 ## 📄 License
-This project is licensed under the MIT License. For more information, see the [LICENSE]() file.
+This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/MohammadAshmir786/face-detection-app/blob/main/LICENSE) file.
 
 ## 🙏 Acknowledgments
 - [OpenCV](https://opencv.org/) for the powerful computer vision library.
